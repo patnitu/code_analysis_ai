@@ -304,7 +304,7 @@ AI Safety:
 
 LLM calls are wrapped in try-except blocks to prevent crashes.
 
-4️⃣ Visual Flow (Simplified)
+4️ Visual Flow (Simplified)
 [React Frontend]
    |
    |-- Upload ZIP --> /upload
